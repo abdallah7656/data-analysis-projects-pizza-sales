@@ -66,7 +66,7 @@ Optimize Inventory for Popular Sizes:
 - Maintain higher stock levels for Large pizzas to align with demand trends.
 Revamp Underperforming Items:
 
-= Consider rebranding or discounting Brie Carre Pizza and other bottom performers to improve their sales.
+- Consider rebranding or discounting Brie Carre Pizza and other bottom performers to improve their sales.
 Expand Popular Categories:
 
 - Invest in Classic and Supreme categories, given their consistent high performance.
